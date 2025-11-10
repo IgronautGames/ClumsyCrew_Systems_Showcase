@@ -33,7 +33,7 @@ This repo is designed to:
 
 
 ## 📂 Project Structure
-
+```
 Assets/
 └── Scripts/
     ├── 🧍 Characters/
@@ -91,7 +91,7 @@ Assets/
     └── 🔧 Utilities/
         ├── CollectionExtensions.cs        # List and collection helper methods
         └── TransformExtensions.cs         # Transform movement and hierarchy helpers
-
+```
 
 
 ---
